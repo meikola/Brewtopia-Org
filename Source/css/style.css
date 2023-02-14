@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
        .btn {
                 text-align: center;
         position: relative;
-        top: 700px;
+        top: 500px;
         right: -225px;
  padding: 1.1em 2em;
  background: none;
@@ -129,14 +129,13 @@ font-weight: bold;
 .bb{
     position: relative;
     overflow: hidden;
-    bottom: -200px;
-    left: 1000px;
+    bottom: -80px;
+    left: 720px;
     width: 700px;
     height: 600px;
 
 
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
-        border-color: #fff;
+
 }
 
 
